@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "amjad ",
+      "desciption": "Lorem Ipsum is simply dummy text of the printing",
+      "email": "amjadmalikf53@gmail.com"
+    },
+    {
+      "id": 2,
+      "stuname": "azad",
+      "desciption": "Lorem Ipsum is simply dummy text of the printing",
+      "email": "amjadmalikf53@gmail.com"
+    },
+    {
+      "id": 3,
+      "stuname": "areeb",
+      "desciption": "Lorem Ipsum is simply dummy text of the printing ",
+      "email": "amjadmalikf53@gmail.com"
+    }
+  ]
+}
